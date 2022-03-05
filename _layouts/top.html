@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
+
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    <meta name="author" content="{{ site.name }}" />
+    <meta name="description" content="{{ site.description }}">
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.description }}</p>
+          </div>
+          
+          <nav>
+            <a href="{{ site.baseurl }}/post">Blog</a>
+            <a href="{{ site.baseurl }}/about">About</a>
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.8.0/p5.js"></script>
+      <script type="text/javascript">
+        let xspacing = 16;
+        let w;
+        let theta = 0.0;
+        let amplitude = 36.0;
+        let period = 500.0;
+        let dx;
+        let yvalues;
+
+        function setup() {
+          createCanvas(1200, 400);
+          w = width;
+          dx = (TWO_PI / period) * xspacing;
+          yvalues = new Array(floor(w / xspacing));
+        }
+
+        function draw() {
+          background(255);
+          calcWave();
+          renderWave();
+        }
+
+        function calcWave() {
+          theta += 0.01;
+          let x = theta;
+          for (let i = 0; i < yvalues.length; i++) {
+            yvalues[i] = sin(x) * amplitude;
+            x += dx;
+          }
+        }
+
+        function renderWave() {
+          noStroke()
+          fill('#27e8be');
+          for (let x = 0; x < yvalues.length; x++) {
+            ellipse(x * xspacing+4, height / 2 + yvalues[x], 8, 8);
+            ellipse(x * xspacing+4, height / 2 - yvalues[x], 8, 8);
+          }
+        }
+      </script>
+
+    {% include analytics.html %}
+  </body>
+</html>
