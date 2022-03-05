@@ -2,3 +2,12 @@ canvas {
   display: block;
   margin: 0 auto;
 }
+
+#canvaswrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  max-width: 1200px;
+  overflow: hidden;
+  margin: 0 auto;
+}
