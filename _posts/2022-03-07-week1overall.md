@@ -1,0 +1,18 @@
+---
+layout: post
+title: week1 summary
+---
+
+# Assignments
+**What is Life? How would you define it, can you actually define it?**
+I think uncontrollability is the key word for me to answer this question.
+
+I used to have a cat, and he never listened to me, and he was breaking everything in the house. When I saw him scratching and tearing up the sofa, I felt a strong sense of life. 
+And also, the reason why I think this uncontrollability is interesting is because using this keyword, life could include Artificial Intelligence, human society, and the global environment itself. Sometimes I feel such networks and systems are also living things. So, things that cannot be controlled, this is my definition of life.
+
+**What is BioHacking? What does it mean for you?**
+I think it's a new form of literacy. I guess I can learn more about it in this academy, but I think BioHacking is the means to read and write about life.
+
+**Why are you interested in Bio?**
+I am attracted to the colors and shapes of life.
+Not only the beauty of birds and insects, but also the stuructual shapes of microorganisms and the expanse of the forest, I think the aesthetic aspect of biotechnology is very interesting.
