@@ -5,7 +5,7 @@ permalink: /final/
 ---
 # 〜Just notes〜
 ## ideas
-別府PCR/2-D electrophoresis（3-D electrophoresis）4-D?/Compact Disc Centrifuge/GFP Photogram  
+別府PCR/2-D electrophoresis（3-D electrophoresis）4-D?/Compact Disc Centrifuge/GFP Photogram/Eliminating Hay Fever（花粉症） with Gene Drive   
   
 ## circle/cycle/spin in Biology  
 
