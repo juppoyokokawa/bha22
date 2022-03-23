@@ -5,9 +5,15 @@ permalink: /final/
 ---
 # 〜Just notes〜
 ## ideas
-別府PCR/2-D electrophoresis（3-D electrophoresis）4-D?/Compact Disc Centrifuge/GFP Photogram/Eliminating Hay Fever（花粉症） with Gene Drive   
+別府PCR/2-D electrophoresis（3-D electrophoresis）4-D?/Compact Disc Centrifuge/GFP Photogram/Eliminating Hay Fever（花粉症） with Gene Drive/Biological "agents"   
+
+## bioluminescence photogram  
+
+## ThereminPCR  
   
 ## circle/cycle/spin in Biology  
+
+## agar art stamp
 
 <img src="{{ site.baseurl }}/images/final-01.svg" alt="" width="400"/>  
 Empirical cycle    
