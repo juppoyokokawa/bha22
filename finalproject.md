@@ -7,6 +7,7 @@ permalink: /final/
 ## random ideas
 別府PCR/2-D electrophoresis（3-D electrophoresis）4-D?/Compact Disc Centrifuge/GFP Photogram/Eliminating Hay Fever（花粉症） with Gene Drive/Biological "agents"/agar stamp   
 
+--
 ## Luminescent Bacteria Photogram  
 <img src="{{ site.baseurl }}/images/final-05.jpg" alt="" width="400"/>  
 Photographic paper is used instead of glass slides to record the light from the luminescent bacteria as photographs.  
@@ -19,7 +20,7 @@ Photographic paper is used instead of glass slides to record the light from the 
 [http://hitoshikuriyama.com/works_jp/filament_blue_jp.html](http://hitoshikuriyama.com/works_jp/filament_blue_jp.html)  
 
 
-
+--
 ## ThereminPCR  
 <img src="{{ site.baseurl }}/images/final-06.jpg" alt="" width="400"/>  
 It would be wonderful to be able to play instruments without touching things while waiting PCR.  
@@ -31,8 +32,9 @@ It would be wonderful to be able to play instruments without touching things whi
 
 [https://www.tsuten.com/SHOP/68007.html](https://www.tsuten.com/SHOP/68007.html)  
 
-
+--
 ## Robot Arm Cultivation  
+<img src="{{ site.baseurl }}/images/final-07.jpg" alt="" width="400"/>    
 There is a product that grows plants in rotation, and if so, I wanted to know what would happen if I grew plants on multiple rotation axes.  
   
 ### ref:  
@@ -42,12 +44,8 @@ There is a product that grows plants in rotation, and if so, I wanted to know wh
 [https://www.yankodesign.com/2019/03/13/this-gardening-system-can-grow-up-to-90-fruits-and-veggies-at-once/](https://www.yankodesign.com/2019/03/13/this-gardening-system-can-grow-up-to-90-fruits-and-veggies-at-once/)  
   
 [https://www.designlibero.com/portfolio/the-green-wheel/](https://www.designlibero.com/portfolio/the-green-wheel/)  
-  
 
-
-<img src="{{ site.baseurl }}/images/final-07.jpg" alt="" width="400"/>  
-
-
+cf: circle/cycle/spin in Biology  
 <img src="{{ site.baseurl }}/images/final-01.svg" alt="" width="400"/>  
 Empirical cycle    
 
