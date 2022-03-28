@@ -4,16 +4,49 @@ title: Final project
 permalink: /final/
 ---
 # 〜Just notes〜
-## ideas
-別府PCR/2-D electrophoresis（3-D electrophoresis）4-D?/Compact Disc Centrifuge/GFP Photogram/Eliminating Hay Fever（花粉症） with Gene Drive/Biological "agents"   
+## random ideas
+別府PCR/2-D electrophoresis（3-D electrophoresis）4-D?/Compact Disc Centrifuge/GFP Photogram/Eliminating Hay Fever（花粉症） with Gene Drive/Biological "agents"/agar stamp   
 
-## bioluminescence photogram  
+## Luminescent Bacteria Photogram  
+<img src="{{ site.baseurl }}/images/final-05.jpg" alt="" width="400"/>  
+Photographic paper is used instead of glass slides to record the light from the luminescent bacteria as photographs.  
+  
+### ref:  
+**Michael Flomen’s All-Natural Photograms**   
+[https://www.lensculture.com/articles/michael-flomen-michael-flomen-s-all-natural-photograms](https://www.lensculture.com/articles/michael-flomen-michael-flomen-s-all-natural-photograms)  
+  
+**Hitoshi Kuriyama**  
+[http://hitoshikuriyama.com/works_jp/filament_blue_jp.html](http://hitoshikuriyama.com/works_jp/filament_blue_jp.html)  
+
+
 
 ## ThereminPCR  
+<img src="{{ site.baseurl }}/images/final-06.jpg" alt="" width="400"/>  
+It would be wonderful to be able to play instruments without touching things while waiting PCR.  
+(or I like the ridiculousness that comes from cramming too many different functions into one device.)  
   
-## circle/cycle/spin in Biology  
+### ref:  
+**multi record player**  
+<img src="{{ site.baseurl }}/images/final-08.png" alt="" width="400"/>  
 
-## agar art stamp
+[https://www.tsuten.com/SHOP/68007.html](https://www.tsuten.com/SHOP/68007.html)  
+
+
+## Robot Arm Cultivation  
+There is a product that grows plants in rotation, and if so, I wanted to know what would happen if I grew plants on multiple rotation axes.  
+  
+### ref:  
+[https://rotofarm.com/](https://rotofarm.com/)  
+  
+
+[https://www.yankodesign.com/2019/03/13/this-gardening-system-can-grow-up-to-90-fruits-and-veggies-at-once/](https://www.yankodesign.com/2019/03/13/this-gardening-system-can-grow-up-to-90-fruits-and-veggies-at-once/)  
+  
+[https://www.designlibero.com/portfolio/the-green-wheel/](https://www.designlibero.com/portfolio/the-green-wheel/)  
+  
+
+
+<img src="{{ site.baseurl }}/images/final-07.jpg" alt="" width="400"/>  
+
 
 <img src="{{ site.baseurl }}/images/final-01.svg" alt="" width="400"/>  
 Empirical cycle    
