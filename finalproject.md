@@ -3,7 +3,6 @@ layout: page
 title: Final project
 permalink: /final/
 ---
-# 〜Just notes〜
 ## random ideas
 別府PCR/2-D electrophoresis（3-D electrophoresis）4-D?/Compact Disc Centrifuge/GFP Photogram/Eliminating Hay Fever（花粉症） with Gene Drive/Biological "agents"/agar stamp   
 
@@ -23,8 +22,8 @@ Photographic paper is used instead of glass slides to record the light from the 
 --
 ## ThereminPCR  
 <img src="{{ site.baseurl }}/images/final-06.jpg" alt="" width="400"/>  
-It would be wonderful to be able to play instruments without touching things while waiting PCR.  
-(or I like the ridiculousness that comes from cramming too many different functions into one device.)  
+It would be wonderful to be able to play instruments without touching anything while waiting PCR.  
+(or I just like the ridiculousness that comes from cramming too many different functions into one device.)  
   
 ### ref:  
 **multi record player**  
