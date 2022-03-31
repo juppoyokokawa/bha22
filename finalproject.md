@@ -4,11 +4,12 @@ title: Final project
 permalink: /final/
 ---
 ## random ideas
-別府PCR/2-D electrophoresis（3-D electrophoresis）4-D?/Compact Disc Centrifuge/GFP Photogram/Eliminating Hay Fever（花粉症） with Gene Drive/Biological "agents"/agar stamp   
+別府PCR/2-D electrophoresis（3-D electrophoresis）4-D?/Compact Disc Centrifuge/GFP Photogram/Eliminating Hay Fever（花粉症） with Gene Drive/Biological "agents"/agar stamp/squid card(スルメ名刺) / BacteriaLifeGame   
 
 --
 ## Luminescent Bacteria Photogram  
 <img src="{{ site.baseurl }}/images/final-05.jpg" alt="" width="400"/>  
+
 Photographic paper is used instead of glass slides to record the light from the luminescent bacteria as photographs.  
   
 ### ref:  
