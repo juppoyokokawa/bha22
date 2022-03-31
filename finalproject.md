@@ -63,4 +63,9 @@ Laboratory centrifuge
 <img src="{{ site.baseurl }}/images/final-04.gif" alt="" width="400"/>  
 Nucleic acid double helix
 
-[https://en.wikipedia.org/wiki/DNA](https://en.wikipedia.org/wiki/DNA)
+[https://en.wikipedia.org/wiki/DNA](https://en.wikipedia.org/wiki/DNA)  
+  
+--
+## Geidai BioLab Project    
+A plan to hack the university to make a bio-lab.  
+I said I wanted to build a biolab in the media center where I work now, but my supervisor doesn't listen to me at all, so I want to somehow "hack" the university system and build a biolab on my own.
