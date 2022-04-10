@@ -47,7 +47,7 @@
         let w;
         let theta = 0.0;
         let amplitude = 36.0;
-        let period = 500.0;
+        let period = 300.0;
         let dx;
         let yvalues;
 
@@ -78,8 +78,8 @@
           noStroke()
           fill('#27e8be');
           for (let x = 0; x < yvalues.length; x++) {
-            ellipse(x * xspacing+44, height / 2 + yvalues[x], 8, 8);
-            ellipse(x * xspacing-44, height / 2 - yvalues[x], 8, 8);
+            ellipse(x * xspacing+24, height / 2 + yvalues[x], 8, 8);
+            ellipse(x * xspacing-24, height / 2 - yvalues[x], 8, 8);
           }
         }
       </script>

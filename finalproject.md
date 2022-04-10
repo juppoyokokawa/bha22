@@ -17,8 +17,14 @@ Photographic paper is used instead of glass slides to record the light from the 
 [https://www.lensculture.com/articles/michael-flomen-michael-flomen-s-all-natural-photograms](https://www.lensculture.com/articles/michael-flomen-michael-flomen-s-all-natural-photograms)  
   
 **Hitoshi Kuriyama**  
-[http://hitoshikuriyama.com/works_jp/filament_blue_jp.html](http://hitoshikuriyama.com/works_jp/filament_blue_jp.html)  
-
+[http://hitoshikuriyama.com/works_jp/filament_blue_jp.html](http://hitoshikuriyama.com/works_jp/filament_blue_jp.html)   
+  
+**ALLISON KUDLA**  
+[http://allisonx.com/](http://allisonx.com/)  
+  
+**yeastgrams**  
+[http://pavillon35.polycinease.com/cynetart-workshop-exhibition-view/](http://pavillon35.polycinease.com/cynetart-workshop-exhibition-view/)  
+[http://www.johannarotko.com/](http://www.johannarotko.com/)  
 
 --
 ## ThereminPCR  
@@ -44,7 +50,10 @@ There is a product that grows plants in rotation, and if so, I wanted to know wh
 [https://www.yankodesign.com/2019/03/13/this-gardening-system-can-grow-up-to-90-fruits-and-veggies-at-once/](https://www.yankodesign.com/2019/03/13/this-gardening-system-can-grow-up-to-90-fruits-and-veggies-at-once/)  
   
 [https://www.designlibero.com/portfolio/the-green-wheel/](https://www.designlibero.com/portfolio/the-green-wheel/)  
-
+  
+How to annoy a plant    
+[http://douglasrepetto.com/portfolio/how_to_annoy_a_plant/](http://douglasrepetto.com/portfolio/how_to_annoy_a_plant/)  
+  
 cf: circle/cycle/spin in Biology  
 <img src="{{ site.baseurl }}/images/final-01.svg" alt="" width="400"/>  
 Empirical cycle    
