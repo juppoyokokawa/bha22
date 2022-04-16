@@ -3,6 +3,14 @@ layout: page
 title: Final project
 permalink: /final/
 ---
+
+
+
+# [update] ：2022.Apr.14 Thu  
+From a feasibility standpoint, we decided to focus on theremin PCR (PCR theremin).  
+
+
+--
 ## random ideas
 別府PCR/2-D electrophoresis（3-D electrophoresis）4-D?/Compact Disc Centrifuge/GFP Photogram/Eliminating Hay Fever（花粉症） with Gene Drive/Biological "agents"/agar stamp/squid card(スルメ名刺) / BacteriaLifeGame   
 
