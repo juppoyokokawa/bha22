@@ -14,7 +14,7 @@ In the referenced video, a potentiometer is used for volume adjustment, but I us
 
 
 # [update] ：2022.Apr.14 Thu  
-From a feasibility standpoint, we decided to focus on theremin PCR (PCR theremin).  
+From a feasibility standpoint, I decided to focus on theremin PCR (PCR theremin).  
 
 
 --
