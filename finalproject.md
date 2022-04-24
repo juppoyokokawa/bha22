@@ -3,6 +3,10 @@ layout: page
 title: Final project
 permalink: /final/
 ---
+# [update] ：2022.Apr.24 Sun    
+Get frequencies with MAX8.  
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/702533972?h=78301efb53&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="IMG_0374.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>  
+  
 # [update] ：2022.Apr.20 Wed  
 Connected to a sound interface.  
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/701533685?h=03ef2ce7fa&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="IMG_0318.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
