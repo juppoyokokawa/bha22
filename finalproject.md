@@ -6,7 +6,7 @@ permalink: /final/
 # [update] ：2022.Apr.26 Tue    
 I tried connecting the theremin with an external microphone, but found it to be noisy and the sound was better with the interface.  
 <img src="{{ site.baseurl }}/images/final-09.jpg" alt="" width="400"/>   
-![picture]({{ site.baseurl }}/images/final-09.jpg)  
+<!-- ![picture]({{ site.baseurl }}/images/final-09.jpg)   -->
   
 # [update] ：2022.Apr.24 Sun    
 Get frequencies with MAX8.  
