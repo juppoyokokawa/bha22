@@ -3,6 +3,9 @@ layout: page
 title: Final project
 permalink: /final/
 ---
+# [update] ：2022.May.1 Sun      
+Controlling Peltier is far more difficult than I thought, so I decided to substitute an ordinary heater.  
+  
 # [update] ：2022.Apr.26 Tue    
 I tried connecting the theremin with an external microphone, but found it to be noisy and the sound was better with the interface.  
 <img src="{{ site.baseurl }}/images/final-09.jpg" alt="" width="400"/>     
