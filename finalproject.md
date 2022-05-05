@@ -3,6 +3,10 @@ layout: page
 title: Final project
 permalink: /final/
 ---
+# [update] ：2022.May.4 Wed      
+created a circuit for a heater and thermometer.  
+[https://photos.app.goo.gl/Pypb4jELkMBGMVnk7](https://photos.app.goo.gl/Pypb4jELkMBGMVnk7)  
+   
 # [update] ：2022.May.1 Sun      
 Controlling Peltier is far more difficult than I thought, so I decided to substitute an ordinary heater.  
   
