@@ -5,8 +5,17 @@ permalink: /final/
 ---
 # [update] ：2022.May.4 Wed      
 created a circuit for a heater and thermometer.  
-[https://photos.app.goo.gl/Pypb4jELkMBGMVnk7](https://photos.app.goo.gl/Pypb4jELkMBGMVnk7)  
-   
+[https://photos.app.goo.gl/Pypb4jELkMBGMVnk7](https://photos.app.goo.gl/Pypb4jELkMBGMVnk7)   
+ref:  
+[https://machinanette.com/2019/06/28/arduinoでシリコンラバーヒーターをpid制御してみた/](https://machinanette.com/2019/06/28/arduino%e3%81%a7%e3%82%b7%e3%83%aa%e3%82%b3%e3%83%b3%e3%83%a9%e3%83%90%e3%83%bc%e3%83%92%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%92pid%e5%88%b6%e5%be%a1%e3%81%97%e3%81%a6%e3%81%bf%e3%81%9f/)   
+  
+note:  
+Optimization of PCR parameters  
+[https://www.thermofisher.com/blog/learning-at-the-bench/pcr-basic2/](https://www.thermofisher.com/blog/learning-at-the-bench/pcr-basic2/)  
+  
+ソ連の電子楽器： テルミンとその後  
+[https://core.ac.uk/download/pdf/231082754.pdf](https://core.ac.uk/download/pdf/231082754.pdf)  
+
 # [update] ：2022.May.1 Sun      
 Controlling Peltier is far more difficult than I thought, so I decided to substitute an ordinary heater.  
   
