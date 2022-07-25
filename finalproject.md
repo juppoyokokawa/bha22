@@ -3,6 +3,13 @@ layout: page
 title: Final project
 permalink: /final/
 ---
+<img src="{{ site.baseurl }}/images/final-11.jpg" alt="" width="400"/>    
+  
+
+# [update] ：2022.June.4 Sat  
+We exhibited and made a presentation.  
+<img src="{{ site.baseurl }}/images/final-10.jpg" alt="" width="400"/>     
+  
 # [update] ：2022.May.4 Wed      
 created a circuit for a heater and thermometer.  
 [https://photos.app.goo.gl/Pypb4jELkMBGMVnk7](https://photos.app.goo.gl/Pypb4jELkMBGMVnk7)   
