@@ -4,7 +4,7 @@ title: Final project
 permalink: /final/
 ---
 <img src="{{ site.baseurl }}/images/final-11.jpg" alt="" width="800"/>    
-  
+<img src="{{ site.baseurl }}/images/final-12.jpg" alt="" width="800"/>  
 
 # [update] ：2022.June.4 Sat  
 We exhibited and made a presentation.  
