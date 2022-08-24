@@ -3,7 +3,8 @@ layout: page
 title: Final project
 permalink: /final/
 ---
-|<img src="{{ site.baseurl }}/images/final-11.jpg" alt="" width="50%"/><img src="{{ site.baseurl }}/images/final-12.jpg" alt="" width="50%"/>|  
+<img src="{{ site.baseurl }}/images/final-11.jpg" alt="" width="60%"/>  
+<img src="{{ site.baseurl }}/images/final-12.jpg" alt="" width="60%"/>|  
 
 # [update] ：2022.June.4 Sat  
 We exhibited and made a presentation.  
